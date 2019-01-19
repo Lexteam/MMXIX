@@ -1,0 +1,14 @@
+apply plugin: 'java'
+
+sourceCompatibility = '1.8'
+targetCompatibility = '1.8'
+
+group = 'xyz.lexteam'
+version = '0.0.1-indev'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
